@@ -80,7 +80,7 @@ function Header() {
             AvatarDropDown()
           ) : (
             <Button gradientDuoTone="purpleToBlue" outline>
-              Sign Out
+              Sign In
             </Button>
           )}
         </Link>
